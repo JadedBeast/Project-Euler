@@ -19,6 +19,7 @@ int main(void){
             f1 = z;
         }
     printf("%lld\n",sum);
-    }   
+    }
+    return 0;
 }
 
